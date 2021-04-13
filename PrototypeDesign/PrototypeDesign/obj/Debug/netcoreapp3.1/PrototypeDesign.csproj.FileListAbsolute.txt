@@ -1,0 +1,13 @@
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.exe
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.deps.json
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.runtimeconfig.json
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.runtimeconfig.dev.json
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.dll
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\bin\Debug\netcoreapp3.1\PrototypeDesign.pdb
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.csprojAssemblyReference.cache
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.AssemblyInfoInputs.cache
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.AssemblyInfo.cs
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.csproj.CoreCompileInputs.cache
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.dll
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.pdb
+C:\Users\sylvia.wan\source\repos\PrototypeDesign\PrototypeDesign\obj\Debug\netcoreapp3.1\PrototypeDesign.genruntimeconfig.cache
