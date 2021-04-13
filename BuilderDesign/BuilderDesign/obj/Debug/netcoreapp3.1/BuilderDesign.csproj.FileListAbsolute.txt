@@ -1,0 +1,13 @@
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.csprojAssemblyReference.cache
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.AssemblyInfoInputs.cache
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.AssemblyInfo.cs
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.csproj.CoreCompileInputs.cache
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.exe
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.deps.json
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.runtimeconfig.json
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.runtimeconfig.dev.json
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.dll
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\bin\Debug\netcoreapp3.1\BuilderDesign.pdb
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.dll
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.pdb
+C:\Users\sylvia.wan\source\repos\BuilderDesign\BuilderDesign\obj\Debug\netcoreapp3.1\BuilderDesign.genruntimeconfig.cache
